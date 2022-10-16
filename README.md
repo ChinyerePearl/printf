@@ -1,1 +1,4 @@
-This repository contains ALX printf colaboration task
+# Creating Printf Function
+### collaborators
+* Sammy IYEBHORA --Sammykingx
+* Timmy ADEYEMI --TimmyPR
