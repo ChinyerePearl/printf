@@ -1,4 +1,4 @@
 # Creating Printf Function
 ### collaborators
 * Pearl Ejikeme -- Pearl
-* Muminat Adekunle -- Mumina
+* Muminat Adekunle -- Muminat
